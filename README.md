@@ -6,7 +6,7 @@ This repository containts the implementation of the Ordered MultiSignature schem
 
 This is currently a very basic implementation which has been programmed to verify the functioning of the scheme.
 
-##Running Instructions
+## Running Instructions
 
 The following libraries along with their respective dependencies need to be installed for properly running the programs mentioned: [Stanford PBC](https://crypto.stanford.edu/pbc/), [OpenSSL](https://www.openssl.org/) and [GMP](https://gmplib.org/) libraries
 
